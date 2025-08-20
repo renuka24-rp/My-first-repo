@@ -32,7 +32,7 @@ I'm excited to continue learning! Coming up:
 - [ ] Explore GitHub Pages
 
 ## 🧠 Author
-Renuka gujjar  – _Aspiring Developer, Learning GitHub One Commit at a Time_  
+Renuka Gajanan Patil – _Aspiring Developer, Learning GitHub One Commit at a Time_  
 📫 Connect with me on https://www.linkedin.com/in/renuka-patil-5b2229341
 
 
